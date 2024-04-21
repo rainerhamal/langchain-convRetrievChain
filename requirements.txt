@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain_community
+langgraph
+langsmith
+beautifulsoup4
+faiss-cpu
+OpenAI
+python-dotenv
+streamlit
+duckduckgo-search
